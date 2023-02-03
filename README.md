@@ -12,4 +12,4 @@ Notice warnings about unmet dependencies on `@tiptap/pm `. However, `@tiptap/pm`
 
 https://github.com/ueberdosis/tiptap/tree/v2.0.0-beta.195/packages
 
-https://github.com/ueberdosis/tiptap/blob/v2.0.0-beta.195/packages/react/package.json
+https://github.com/ueberdosis/tiptap/blob/v2.0.0-beta.195/packages/extension-bubble-menu/package.json
